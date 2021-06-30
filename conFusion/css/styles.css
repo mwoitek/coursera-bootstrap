@@ -4,7 +4,7 @@
 }
 
 .row-content {
-    border-bottom: 1px ridge;
+    border-bottom: 1px ridge lightgray;
     margin:        0px auto;
     min-height:    400px;
     padding:       50px 0px 50px 0px;
@@ -27,4 +27,13 @@
     color:     #0F0F0F;
     font-size: 80%;
     margin:    0px;
+}
+
+/* body {
+    padding: 50px 0px 0px 0px;
+    z-index: 0;
+} */
+
+.navbar-dark {
+    background-color: #512DA8;
 }
